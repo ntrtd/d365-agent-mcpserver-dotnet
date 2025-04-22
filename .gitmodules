@@ -1,0 +1,3 @@
+[submodule "submodules/d365-agent"]
+	path = submodules/d365-agent
+	url = https://github.com/ntrtd/d365-agent.git
